@@ -1,16 +1,17 @@
-## Hi there 👋
+##Me chamo Ayslan é um prazer te receber por aqui, fique a vontade! 😉
 
 <!--
 **Ayslan565/Ayslan565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente estou trabalhando no front-end
+
+- Comecei a estudar C# e SQL.
+
+- sou estudante de engenharia de software.
+
+- contatos 📞
+
+e-mail: ayslan565@gmail.com
+ig: slan_02
