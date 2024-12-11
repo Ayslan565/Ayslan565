@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ayslan Souza, tenho 19 anos e sou natural de Brasilia. Atualmente, estou cursando Engenharia de Software na Universidade Católica de Brasilia. Sou apaixonado por todo tipo de tecnologia, sempre disposto a aprender e aplicar todo o aprendizado na  prática.
+Me chamo Ayslan Souza, tenho 19 anos e sou natural de Brasilia. Atualmente, estou cursando Engenharia de Software na Universidade Católica de Brasilia. Sou apaixonado por todo tipo de tecnologia, sempre disposto a aprender e aplicar todo o meu conhecimento na prática.
 
 <p align="left">
     <a href="https://github.com/Ayslan565">
