@@ -91,9 +91,8 @@ Me chamo Ayslan Souza, tenho 19 anos e sou natural de Brasilia. Atualmente, esto
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -101,10 +100,8 @@ Me chamo Ayslan Souza, tenho 19 anos e sou natural de Brasilia. Atualmente, esto
   />
 
 <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayslan565&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
