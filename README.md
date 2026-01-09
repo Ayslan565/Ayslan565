@@ -1,31 +1,22 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Ayslan+Souza!;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Engenharia+de+Software+%40+UCB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Ayslan+Ara%C3%BAjo!;Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Engenheiro+de+Software" alt="Typing SVG" />
   </a>
 </div>
 
-
-<p align="left">
-    <a href="https://github.com/Ayslan565">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ayslan565?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Ayslan565?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ayslan565?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <a href="https://github.com/Ayslan565">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/ayslan565?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Total de estrelas" title="Total de estrelas GitHub"/>
+  </a>
+  <a href="https://github.com/Ayslan565?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/ayslan565?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" title="Me siga no GitHub"/>
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
-  <h3> Sobre Mim</h3>
+  <h3>Sobre Mim</h3>
 </div>
 
 Me chamo **Ayslan Araújo**, tenho 20 anos e sou natural de Brasília. Atualmente, curso **Engenharia de Software** na Universidade Católica de Brasília (UCB). 
@@ -109,7 +100,3 @@ Sou um desenvolvedor **FullStack** em formação, apaixonado por resolver proble
 </div>
 
 ---
-
-<div align="center">
-  <p>Feito com 💜 por Ayslan Souza</p>
-</div>
