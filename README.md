@@ -4,16 +4,23 @@
   </a>
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/Ayslan565">
-    <img src="https://img.shields.io/github/followers/ayslan565?style=social&label=Seguir&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-   <a href="mailto:SEU-EMAIL-AQUI"> <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+
+<p align="left">
+    <a href="https://github.com/Ayslan565">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ayslan565?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Ayslan565?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ayslan565?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 <br/>
 
