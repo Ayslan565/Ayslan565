@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <h3>🧐 Sobre Mim</h3>
+  <h3> Sobre Mim</h3>
 </div>
 
 Me chamo **Ayslan Araújo**, tenho 20 anos e sou natural de Brasília. Atualmente, curso **Engenharia de Software** na Universidade Católica de Brasília (UCB). 
