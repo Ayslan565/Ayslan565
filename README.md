@@ -21,7 +21,7 @@
   <h3>🧐 Sobre Mim</h3>
 </div>
 
-Me chamo **Ayslan Souza**, tenho 19 anos e sou natural de Brasília. Atualmente, curso **Engenharia de Software** na Universidade Católica de Brasília (UCB). 
+Me chamo **Ayslan Araújo**, tenho 20 anos e sou natural de Brasília. Atualmente, curso **Engenharia de Software** na Universidade Católica de Brasília (UCB). 
 
 Sou um desenvolvedor **FullStack** em formação, apaixonado por resolver problemas através do código. Estou sempre em busca de projetos desafiadores para aplicar meus conhecimentos e evoluir minhas habilidades técnicas.
 
