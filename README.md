@@ -21,7 +21,7 @@
 
 Me chamo **Ayslan Araújo**, tenho 20 anos e sou natural de Brasília. Atualmente, curso **Engenharia de Software** na Universidade Católica de Brasília (UCB). 
 
-Sou um desenvolvedor **FullStack** em formação, apaixonado por resolver problemas através do código. Estou sempre em busca de projetos desafiadores para aplicar meus conhecimentos e evoluir minhas habilidades técnicas.
+Sou um desenvolvedor **FullStack** em formação, apaixonado por resolver problemas através do código, desde a arquitetura de sistemas corporativos até a lógica complexa de desenvolvimento de jogos.
 
 ---
 
@@ -86,6 +86,80 @@ Sou um desenvolvedor **FullStack** em formação, apaixonado por resolver proble
 
 <br/>
 
+### 🚀 Destaques do Portfólio
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center">
+        <h4>🛣️ Vitta</h4>
+        <p>Segurança viária e navegação inteligente com <b>PostGIS</b> e Python. Focado em análise de dados geográficos para trânsito.</p>
+        <a href="https://github.com/Ayslan565/Vitta">
+          <img src="https://img.shields.io/badge/Repositório-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center">
+        <h4>🚗 LocAuto</h4>
+        <p>Sistema completo para gestão de locação de veículos, aplicando conceitos de POO e persistência de dados.</p>
+        <a href="https://github.com/Ayslan565/LocAuto1">
+          <img src="https://img.shields.io/badge/Repositório-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center">
+        <h4>🕵️‍♂️ Ponto sem Volta</h4>
+        <p>Simulador político Noir em <b>Pygame</b>. Lógica baseada em eventos JSON para narrativa dinâmica.</p>
+        <a href="https://github.com/Ayslan565/PontoSemVolta">
+          <img src="https://img.shields.io/badge/Repositório-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center">
+        <h4>💀 A Lenda de Azrael</h4>
+        <p>Um desafiador jogo estilo <b>Rogue-like</b>, explorando mecânicas de combate e geração aleatória.</p>
+        <a href="https://github.com/Ayslan565/Jogo">
+          <img src="https://img.shields.io/badge/Repositório-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center">
+        <h4>🔄 Conversor Suíço</h4>
+        <p>Ferramenta versátil para conversão de múltiplos formatos de arquivos, otimizando o fluxo de trabalho.</p>
+        <a href="https://github.com/Ayslan565/Conversor-Suico">
+          <img src="https://img.shields.io/badge/Repositório-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <div align="center">
+        <h4>📋 Kanban Desktop</h4>
+        <p>Gerenciador de tarefas desenvolvido com <b>customTkinter</b> para uma experiência nativa e moderna.</p>
+        <a href="https://github.com/Ayslan565/Kanban">
+          <img src="https://img.shields.io/badge/Repositório-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <strong>Outros Projetos Mentais:</strong> 
+  <code><a href="https://github.com/Ayslan565/war">Jogo War (JS)</a></code> • 
+  <code><a href="https://github.com/Ayslan565/Quimica-analitica">Portal de Química Analítica</a></code>
+</div>
+
+<br/>
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -96,7 +170,7 @@ Sou um desenvolvedor **FullStack** em formação, apaixonado por resolver proble
 <br/>
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/Ayslan565/Ayslan565/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ayslan565/Ayslan565/output/github-contribution-grid-snake.svg">
 </div>
 
 ---
